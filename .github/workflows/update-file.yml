@@ -1,0 +1,29 @@
+name: Update file
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-file:
+    runs-on: ubuntu-latest
+    steps:
+      -   uses: actions/checkout@v3
+
+      -   name: Update releases.json
+          run: |
+            rm releases.json
+            wget https://api.github.com/repos/shopware/shopware/releases -O releases.json
+            git config --global user.name "shopware5"
+            git config --global user.email "<>"
+      -   name: Verify diff
+          run: |
+            git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
+
+      -   name: Commit changes
+          if: steps.verify_diff.outputs.changed == 'true'
+          run: |
+            git add .
+            git commit -m "Update releases.json"
+            git push origin HEAD:main
