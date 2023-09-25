@@ -19,7 +19,7 @@ jobs:
             git config --global user.email "<>"
       -   name: Verify diff
           run: |
-            git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
+            git diff . || echo "changed=true" >> $GITHUB_OUTPUT
 
       -   name: Commit changes
           if: steps.verify_diff.outputs.changed == 'true'
