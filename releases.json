@@ -1,9 +1,225 @@
 [
   {
-    "url": "https://api.github.com/repos/shopware/shopware/releases/97288305",
-    "assets_url": "https://api.github.com/repos/shopware/shopware/releases/97288305/assets",
-    "upload_url": "https://uploads.github.com/repos/shopware/shopware/releases/97288305/assets{?name,label}",
-    "html_url": "https://github.com/shopware/shopware/releases/tag/v5.7.17",
+    "url": "https://api.github.com/repos/shopware5/shopware/releases/122163456",
+    "assets_url": "https://api.github.com/repos/shopware5/shopware/releases/122163456/assets",
+    "upload_url": "https://uploads.github.com/repos/shopware5/shopware/releases/122163456/assets{?name,label}",
+    "html_url": "https://github.com/shopware5/shopware/releases/tag/untagged-10bdefd21fcf7e26a9d1",
+    "id": 122163456,
+    "author": {
+      "login": "github-actions[bot]",
+      "id": 41898282,
+      "node_id": "MDM6Qm90NDE4OTgyODI=",
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+      "html_url": "https://github.com/apps/github-actions",
+      "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+      "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+      "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+      "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+      "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+      "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+      "type": "Bot",
+      "site_admin": false
+    },
+    "node_id": "RE_kwDOAFa3Gs4HSBEA",
+    "tag_name": "v5.7.19",
+    "target_commitish": "a91f0da83b2673733caa5647f8f1ba256f9ede52",
+    "name": "v5.7.19",
+    "draft": true,
+    "prerelease": false,
+    "created_at": "2023-09-22T07:07:21Z",
+    "published_at": null,
+    "assets": [
+      {
+        "url": "https://api.github.com/repos/shopware5/shopware/releases/assets/127218336",
+        "id": 127218336,
+        "node_id": "RA_kwDOAFa3Gs4HlTKg",
+        "name": "install_a507a9724b2392fb06e5b6cd687d218255f02433.zip",
+        "label": "",
+        "uploader": {
+          "login": "github-actions[bot]",
+          "id": 41898282,
+          "node_id": "MDM6Qm90NDE4OTgyODI=",
+          "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+          "html_url": "https://github.com/apps/github-actions",
+          "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+          "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+          "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+          "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+          "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+          "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+          "type": "Bot",
+          "site_admin": false
+        },
+        "content_type": "application/zip",
+        "state": "uploaded",
+        "size": 47087627,
+        "download_count": 0,
+        "created_at": "2023-09-22T07:59:05Z",
+        "updated_at": "2023-09-22T07:59:07Z",
+        "browser_download_url": "https://github.com/shopware5/shopware/releases/download/untagged-10bdefd21fcf7e26a9d1/install_a507a9724b2392fb06e5b6cd687d218255f02433.zip"
+      },
+      {
+        "url": "https://api.github.com/repos/shopware5/shopware/releases/assets/127218334",
+        "id": 127218334,
+        "node_id": "RA_kwDOAFa3Gs4HlTKe",
+        "name": "update_f8321f8de0ee81c10d4d520fa5fe8b1eb579d945.zip",
+        "label": "",
+        "uploader": {
+          "login": "github-actions[bot]",
+          "id": 41898282,
+          "node_id": "MDM6Qm90NDE4OTgyODI=",
+          "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+          "html_url": "https://github.com/apps/github-actions",
+          "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+          "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+          "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+          "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+          "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+          "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+          "type": "Bot",
+          "site_admin": false
+        },
+        "content_type": "application/zip",
+        "state": "uploaded",
+        "size": 48039381,
+        "download_count": 1,
+        "created_at": "2023-09-22T07:59:03Z",
+        "updated_at": "2023-09-22T07:59:04Z",
+        "browser_download_url": "https://github.com/shopware5/shopware/releases/download/untagged-10bdefd21fcf7e26a9d1/update_f8321f8de0ee81c10d4d520fa5fe8b1eb579d945.zip"
+      }
+    ],
+    "tarball_url": null,
+    "zipball_url": null,
+    "body": "[SW-27151](https://issues.shopware.com/issues/SW-27151) - Mail addresses in forms are validated correctly again\r\n[SW-27165](https://issues.shopware.com/issues/SW-27165) - Prices for products with graduated prices can be changed again in the backend order module\r\n\r\nChanges: https://github.com/shopware5/shopware/compare/v5.7.18...v5.7.19"
+  },
+  {
+    "url": "https://api.github.com/repos/shopware5/shopware/releases/110011677",
+    "assets_url": "https://api.github.com/repos/shopware5/shopware/releases/110011677/assets",
+    "upload_url": "https://uploads.github.com/repos/shopware5/shopware/releases/110011677/assets{?name,label}",
+    "html_url": "https://github.com/shopware5/shopware/releases/tag/v5.7.18",
+    "id": 110011677,
+    "author": {
+      "login": "github-actions[bot]",
+      "id": 41898282,
+      "node_id": "MDM6Qm90NDE4OTgyODI=",
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+      "html_url": "https://github.com/apps/github-actions",
+      "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+      "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+      "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+      "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+      "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+      "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+      "type": "Bot",
+      "site_admin": false
+    },
+    "node_id": "RE_kwDOAFa3Gs4GjqUd",
+    "tag_name": "v5.7.18",
+    "target_commitish": "95e77156a9c8e0f2c3b731d7e4835cb26921c36d",
+    "name": "Release 5.7.18",
+    "draft": false,
+    "prerelease": false,
+    "created_at": "2023-06-27T09:32:21Z",
+    "published_at": "2023-06-27T09:47:15Z",
+    "assets": [
+      {
+        "url": "https://api.github.com/repos/shopware5/shopware/releases/assets/114530871",
+        "id": 114530871,
+        "node_id": "RA_kwDOAFa3Gs4G05o3",
+        "name": "install_36829528b4cbcb99765ada51001da66daa73f178.zip",
+        "label": "",
+        "uploader": {
+          "login": "github-actions[bot]",
+          "id": 41898282,
+          "node_id": "MDM6Qm90NDE4OTgyODI=",
+          "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+          "html_url": "https://github.com/apps/github-actions",
+          "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+          "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+          "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+          "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+          "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+          "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+          "type": "Bot",
+          "site_admin": false
+        },
+        "content_type": "application/zip",
+        "state": "uploaded",
+        "size": 47087598,
+        "download_count": 593,
+        "created_at": "2023-06-27T09:43:25Z",
+        "updated_at": "2023-06-27T09:43:27Z",
+        "browser_download_url": "https://github.com/shopware5/shopware/releases/download/v5.7.18/install_36829528b4cbcb99765ada51001da66daa73f178.zip"
+      },
+      {
+        "url": "https://api.github.com/repos/shopware5/shopware/releases/assets/114531217",
+        "id": 114531217,
+        "node_id": "RA_kwDOAFa3Gs4G05uR",
+        "name": "update_70e908a2e319960fe6bb02e1c927ec0b2142915c.zip",
+        "label": "",
+        "uploader": {
+          "login": "github-actions[bot]",
+          "id": 41898282,
+          "node_id": "MDM6Qm90NDE4OTgyODI=",
+          "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+          "html_url": "https://github.com/apps/github-actions",
+          "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+          "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+          "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+          "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+          "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+          "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+          "type": "Bot",
+          "site_admin": false
+        },
+        "content_type": "application/zip",
+        "state": "uploaded",
+        "size": 48040786,
+        "download_count": 488,
+        "created_at": "2023-06-27T09:45:45Z",
+        "updated_at": "2023-06-27T09:45:47Z",
+        "browser_download_url": "https://github.com/shopware5/shopware/releases/download/v5.7.18/update_70e908a2e319960fe6bb02e1c927ec0b2142915c.zip"
+      }
+    ],
+    "tarball_url": "https://api.github.com/repos/shopware5/shopware/tarball/v5.7.18",
+    "zipball_url": "https://api.github.com/repos/shopware5/shopware/zipball/v5.7.18",
+    "body": "[SW-26868](https://issues.shopware.com/issues/SW-26868) - Removed feedback popup\r\n[SW-27043](https://issues.shopware.com/issues/SW-27043) - Optimized file size of fonts [(aragon999)](https://github.com/aragon999)</a>\r\n[SW-27047](https://issues.shopware.com/issues/SW-27047) - The corresponding error message will be displayed when adding an item to the shopping cart without stock and with the sale option enabled. [(lacknere)](https://github.com/lacknere)</a>\r\n[SW-27050](https://issues.shopware.com/issues/SW-27050) - Improve method documentation [(jkrzefski)](https://github.com/jkrzefski)</a>\r\n[SW-27052](https://issues.shopware.com/issues/SW-27052) - Improve compatibility with PHP8.2 [(aragon999)](https://github.com/aragon999)</a>\r\n[SW-27062](https://issues.shopware.com/issues/SW-27062) - Update of third party dependencies\r\n[SW-27074](https://issues.shopware.com/issues/SW-27074) - Adjust the conditions in function CacheManager::getOpCacheCacheInfo\r\n[SW-27078](https://issues.shopware.com/issues/SW-27078) - changes the type of $listingLinkRewriteService property to ListingLinkRewriteServiceInterface which prevents throwing an errors [(mkreusch)](https://github.com/mkreusch)</a>\r\n[SW-27079](https://issues.shopware.com/issues/SW-27079) - The config \"shopware.es.backend.index_settings\" is now correctly considered for the Elasticsearch backend functionality\r\n[SW-27080](https://issues.shopware.com/issues/SW-27080) - Adding new positions in the backend order module now also considers graduated prices.\r\n[SW-27081](https://issues.shopware.com/issues/SW-27081) - Improve calculation of shipping costs in product exports\r\n[SW-27083](https://issues.shopware.com/issues/SW-27083) - Improved validation of input fields for registration, newsletter subscription and forms\r\n[SW-27086](https://issues.shopware.com/issues/SW-27086) - Fixed variant displaying on the product detail page\r\n[SW-27088](https://issues.shopware.com/issues/SW-27088) - 'Ask for reason' mail can be sent without voucher again\r\n[SW-27090](https://issues.shopware.com/issues/SW-27090) - Subhop settings can be saved again\r\n[SW-27091](https://issues.shopware.com/issues/SW-27091) - Products can be edited again if their images were deleted previously\r\n[SW-27093](https://issues.shopware.com/issues/SW-27093) - The e-mail configuration on sending the order confirmation can now be adjusted by an event\r\n[SW-27094](https://issues.shopware.com/issues/SW-27094) - Fix SLT cookie behavior [(dot-frost)](https://github.com/dot-frost)</a>\r\n[SW-27103](https://issues.shopware.com/issues/SW-27103) - If salutation is not required, the field validations is skipped [(zukucker)](https://github.com/zukucker)</a>\r\n[SW-27115](https://issues.shopware.com/issues/SW-27115) - The auto updater will obtain the updates directly from GitHub in the future\r\n[SW-27121](https://issues.shopware.com/issues/SW-27121) - Creating customer streams is possible again\r\n[SW-27136](https://issues.shopware.com/issues/SW-27136) - Removed Shopware BI feature\r\n\r\n\r\nChanges: https://github.com/shopware5/shopware/compare/v5.7.17...v5.7.18"
+  },
+  {
+    "url": "https://api.github.com/repos/shopware5/shopware/releases/97288305",
+    "assets_url": "https://api.github.com/repos/shopware5/shopware/releases/97288305/assets",
+    "upload_url": "https://uploads.github.com/repos/shopware5/shopware/releases/97288305/assets{?name,label}",
+    "html_url": "https://github.com/shopware5/shopware/releases/tag/v5.7.17",
     "id": 97288305,
     "author": {
       "login": "mitelg",
@@ -35,7 +251,7 @@
     "published_at": "2023-03-29T09:06:24Z",
     "assets": [
       {
-        "url": "https://api.github.com/repos/shopware/shopware/releases/assets/102259279",
+        "url": "https://api.github.com/repos/shopware5/shopware/releases/assets/102259279",
         "id": 102259279,
         "node_id": "RA_kwDOAFa3Gs4GGFpP",
         "name": "install_31b8b37fe396c41da6dfe6c5354e968ca82d890c.zip",
@@ -63,13 +279,13 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 45264378,
-        "download_count": 134,
+        "download_count": 170,
         "created_at": "2023-04-04T12:14:50Z",
-        "updated_at": "2023-05-30T07:14:09Z",
-        "browser_download_url": "https://github.com/shopware/shopware/releases/download/v5.7.17/install_31b8b37fe396c41da6dfe6c5354e968ca82d890c.zip"
+        "updated_at": "2023-06-22T08:18:16Z",
+        "browser_download_url": "https://github.com/shopware5/shopware/releases/download/v5.7.17/install_31b8b37fe396c41da6dfe6c5354e968ca82d890c.zip"
       },
       {
-        "url": "https://api.github.com/repos/shopware/shopware/releases/assets/102259331",
+        "url": "https://api.github.com/repos/shopware5/shopware/releases/assets/102259331",
         "id": 102259331,
         "node_id": "RA_kwDOAFa3Gs4GGFqD",
         "name": "update_e0a7813fcbae9ecf1dd566899b02e820a0c0b3e5.zip",
@@ -97,33 +313,21 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 46082425,
-        "download_count": 13,
+        "download_count": 29,
         "created_at": "2023-04-04T12:15:18Z",
         "updated_at": "2023-05-30T07:14:37Z",
-        "browser_download_url": "https://github.com/shopware/shopware/releases/download/v5.7.17/update_e0a7813fcbae9ecf1dd566899b02e820a0c0b3e5.zip"
+        "browser_download_url": "https://github.com/shopware5/shopware/releases/download/v5.7.17/update_e0a7813fcbae9ecf1dd566899b02e820a0c0b3e5.zip"
       }
     ],
-    "tarball_url": "https://api.github.com/repos/shopware/shopware/tarball/v5.7.17",
-    "zipball_url": "https://api.github.com/repos/shopware/shopware/zipball/v5.7.17",
-    "body": "[SW-22909](https://issues.shopware.com/issues/SW-22909) - Salutation could be deactivated now\r\n[SW-23083](https://issues.shopware.com/issues/SW-23083) - Removes configurator option from article name after converting variant article to main article and relationships of configurator options to deleted variants.\r\n[SW-23455](https://issues.shopware.com/issues/SW-23455) - For discounts and surcharges a record is created in the s_order_basket_attributes\r\n[SW-23762](https://issues.shopware.com/issues/SW-23762) - The parameter -m for the sw:media:optimize command now works as intended\r\n[SW-24545](https://issues.shopware.com/issues/SW-24545) - Improve settings and behaviour of similar products on product detail page\r\n[SW-24778](https://issues.shopware.com/issues/SW-24778) - The release date is now shown correctly on the note\r\n[SW-25764](https://issues.shopware.com/issues/SW-25764) - Fix not available hint for variant products with more than two options\r\n[SW-25825](https://issues.shopware.com/issues/SW-25825) - remove \"motor\" from bot list for Motorola-device-compatibility\r\n[SW-25878](https://issues.shopware.com/issues/SW-25878) - Asynchrone PluginManager Requests\r\n[SW-25939](https://issues.shopware.com/issues/SW-25939) - Providing the information on the product detail page that the payment method has been changed.\r\n[SW-25985](https://issues.shopware.com/issues/SW-25985) - Fixed a problem where the blog ID was non-existend after reloading the blog page with activated caching\r\n[SW-26321](https://issues.shopware.com/issues/SW-26321) - Pre-selection of the country of delivery and dependent taxes based on the positioning of the countries\r\n[SW-26386](https://issues.shopware.com/issues/SW-26386) - Improved snippet import\r\n[SW-26746](https://issues.shopware.com/issues/SW-26746) - PHP 8.2 compatibility\r\n[SW-26923](https://issues.shopware.com/issues/SW-26923) - Tax, as well as the specific price for the customer-group, are now set in order-module when adding a new position to an order\r\n[SW-26931](https://issues.shopware.com/issues/SW-26931) - Improve PHP8 compatibility in the media module\r\n[SW-26951](https://issues.shopware.com/issues/SW-26951) - Improve PHP8.1 compatibility of the theme cache generation [(teiling88)](https://github.com/teiling88)\r\n[SW-26953](https://issues.shopware.com/issues/SW-26953) - Content type names are allowed to contain numbers now [(bforbird)](https://github.com/bforbird)\r\n[SW-26954](https://issues.shopware.com/issues/SW-26954) - Update of third party dependencies\r\n[SW-26958](https://issues.shopware.com/issues/SW-26958) - Fix deprecation in service declaration [(larsbo)](https://github.com/larsbo)\r\n[SW-26961](https://issues.shopware.com/issues/SW-26961) - Invalidate reset password link after changing account email address.\r\n[SW-26962](https://issues.shopware.com/issues/SW-26962) - Improve registration of CLI commands [(teiling88)](https://github.com/teiling88)\r\n[SW-26968](https://issues.shopware.com/issues/SW-26968) - Fix creating of products with translations in the batch API\r\n[SW-26970](https://issues.shopware.com/issues/SW-26970) - Prevent unwanted behavior when double-clicking the login button\r\n[SW-26981](https://issues.shopware.com/issues/SW-26981) - Improve the performance of the shipping module by minimizing requests and query only necessary data\r\n[SW-27002](https://issues.shopware.com/issues/SW-27002) - Improve PHP 8.1 compatibility [(teiling88)](https://github.com/teiling88)\r\n[SW-27003](https://issues.shopware.com/issues/SW-27003) - Add class prefix \"has--\" back to modernizr [(bestit-pstandt)](https://github.com/bestit-pstandt)\r\n[SW-27004](https://issues.shopware.com/issues/SW-27004) - Removed duplicated font folders in theme to fix installation problem on MacOS\r\n[SW-27009](https://issues.shopware.com/issues/SW-27009) - Added configuration for devenv\r\n[SW-27018](https://issues.shopware.com/issues/SW-27018) - Improving the caching behavior of the account page.\r\n[SW-27019](https://issues.shopware.com/issues/SW-27019) - Changed default value from the ComboBox to an empty value [(Dominikrt)](https://github.com/Dominikrt)\r\n[SW-27031](https://issues.shopware.com/issues/SW-27031) - Adjusted honeypot captcha\r\n[SW-27035](https://issues.shopware.com/issues/SW-27035) - When changing the order via the backend module, the delivery country is now correctly taken into account\r\n[SW-27055](https://issues.shopware.com/issues/SW-27055) - Performance of the order confirm page improved. In addition, attributes of discount or surcharge items are now automatically transferred from the cart to the order again\r\n\r\nChanges: https://github.com/shopware/shopware/compare/v5.7.16...v5.7.17",
-    "reactions": {
-      "url": "https://api.github.com/repos/shopware/shopware/releases/97288305/reactions",
-      "total_count": 1,
-      "+1": 1,
-      "-1": 0,
-      "laugh": 0,
-      "hooray": 0,
-      "confused": 0,
-      "heart": 0,
-      "rocket": 0,
-      "eyes": 0
-    }
+    "tarball_url": "https://api.github.com/repos/shopware5/shopware/tarball/v5.7.17",
+    "zipball_url": "https://api.github.com/repos/shopware5/shopware/zipball/v5.7.17",
+    "body": "[SW-22909](https://issues.shopware.com/issues/SW-22909) - Salutation could be deactivated now\r\n[SW-23083](https://issues.shopware.com/issues/SW-23083) - Removes configurator option from article name after converting variant article to main article and relationships of configurator options to deleted variants.\r\n[SW-23455](https://issues.shopware.com/issues/SW-23455) - For discounts and surcharges a record is created in the s_order_basket_attributes\r\n[SW-23762](https://issues.shopware.com/issues/SW-23762) - The parameter -m for the sw:media:optimize command now works as intended\r\n[SW-24545](https://issues.shopware.com/issues/SW-24545) - Improve settings and behaviour of similar products on product detail page\r\n[SW-24778](https://issues.shopware.com/issues/SW-24778) - The release date is now shown correctly on the note\r\n[SW-25764](https://issues.shopware.com/issues/SW-25764) - Fix not available hint for variant products with more than two options\r\n[SW-25825](https://issues.shopware.com/issues/SW-25825) - remove \"motor\" from bot list for Motorola-device-compatibility\r\n[SW-25878](https://issues.shopware.com/issues/SW-25878) - Asynchrone PluginManager Requests\r\n[SW-25939](https://issues.shopware.com/issues/SW-25939) - Providing the information on the product detail page that the payment method has been changed.\r\n[SW-25985](https://issues.shopware.com/issues/SW-25985) - Fixed a problem where the blog ID was non-existend after reloading the blog page with activated caching\r\n[SW-26321](https://issues.shopware.com/issues/SW-26321) - Pre-selection of the country of delivery and dependent taxes based on the positioning of the countries\r\n[SW-26386](https://issues.shopware.com/issues/SW-26386) - Improved snippet import\r\n[SW-26746](https://issues.shopware.com/issues/SW-26746) - PHP 8.2 compatibility\r\n[SW-26923](https://issues.shopware.com/issues/SW-26923) - Tax, as well as the specific price for the customer-group, are now set in order-module when adding a new position to an order\r\n[SW-26931](https://issues.shopware.com/issues/SW-26931) - Improve PHP8 compatibility in the media module\r\n[SW-26951](https://issues.shopware.com/issues/SW-26951) - Improve PHP8.1 compatibility of the theme cache generation [(teiling88)](https://github.com/teiling88)\r\n[SW-26953](https://issues.shopware.com/issues/SW-26953) - Content type names are allowed to contain numbers now [(bforbird)](https://github.com/bforbird)\r\n[SW-26954](https://issues.shopware.com/issues/SW-26954) - Update of third party dependencies\r\n[SW-26958](https://issues.shopware.com/issues/SW-26958) - Fix deprecation in service declaration [(larsbo)](https://github.com/larsbo)\r\n[SW-26961](https://issues.shopware.com/issues/SW-26961) - Invalidate reset password link after changing account email address.\r\n[SW-26962](https://issues.shopware.com/issues/SW-26962) - Improve registration of CLI commands [(teiling88)](https://github.com/teiling88)\r\n[SW-26968](https://issues.shopware.com/issues/SW-26968) - Fix creating of products with translations in the batch API\r\n[SW-26970](https://issues.shopware.com/issues/SW-26970) - Prevent unwanted behavior when double-clicking the login button\r\n[SW-26981](https://issues.shopware.com/issues/SW-26981) - Improve the performance of the shipping module by minimizing requests and query only necessary data\r\n[SW-27002](https://issues.shopware.com/issues/SW-27002) - Improve PHP 8.1 compatibility [(teiling88)](https://github.com/teiling88)\r\n[SW-27003](https://issues.shopware.com/issues/SW-27003) - Add class prefix \"has--\" back to modernizr [(bestit-pstandt)](https://github.com/bestit-pstandt)\r\n[SW-27004](https://issues.shopware.com/issues/SW-27004) - Removed duplicated font folders in theme to fix installation problem on MacOS\r\n[SW-27009](https://issues.shopware.com/issues/SW-27009) - Added configuration for devenv\r\n[SW-27018](https://issues.shopware.com/issues/SW-27018) - Improving the caching behavior of the account page.\r\n[SW-27019](https://issues.shopware.com/issues/SW-27019) - Changed default value from the ComboBox to an empty value [(Dominikrt)](https://github.com/Dominikrt)\r\n[SW-27031](https://issues.shopware.com/issues/SW-27031) - Adjusted honeypot captcha\r\n[SW-27035](https://issues.shopware.com/issues/SW-27035) - When changing the order via the backend module, the delivery country is now correctly taken into account\r\n[SW-27055](https://issues.shopware.com/issues/SW-27055) - Performance of the order confirm page improved. In addition, attributes of discount or surcharge items are now automatically transferred from the cart to the order again\r\n\r\nChanges: https://github.com/shopware/shopware/compare/v5.7.16...v5.7.17"
   },
   {
-    "url": "https://api.github.com/repos/shopware/shopware/releases/95544513",
-    "assets_url": "https://api.github.com/repos/shopware/shopware/releases/95544513/assets",
-    "upload_url": "https://uploads.github.com/repos/shopware/shopware/releases/95544513/assets{?name,label}",
-    "html_url": "https://github.com/shopware/shopware/releases/tag/v5.7.17-RC1",
+    "url": "https://api.github.com/repos/shopware5/shopware/releases/95544513",
+    "assets_url": "https://api.github.com/repos/shopware5/shopware/releases/95544513/assets",
+    "upload_url": "https://uploads.github.com/repos/shopware5/shopware/releases/95544513/assets{?name,label}",
+    "html_url": "https://github.com/shopware5/shopware/releases/tag/v5.7.17-RC1",
     "id": 95544513,
     "author": {
       "login": "mitelg",
@@ -156,15 +360,15 @@
     "assets": [
 
     ],
-    "tarball_url": "https://api.github.com/repos/shopware/shopware/tarball/v5.7.17-RC1",
-    "zipball_url": "https://api.github.com/repos/shopware/shopware/zipball/v5.7.17-RC1",
+    "tarball_url": "https://api.github.com/repos/shopware5/shopware/tarball/v5.7.17-RC1",
+    "zipball_url": "https://api.github.com/repos/shopware5/shopware/zipball/v5.7.17-RC1",
     "body": "Find more information here: https://www.shopware.com/en/changelog-sw5/#5-7-17RC1\r\n\r\nChanges: https://github.com/shopware/shopware/compare/v5.7.16...v5.7.17-RC1"
   },
   {
-    "url": "https://api.github.com/repos/shopware/shopware/releases/82382322",
-    "assets_url": "https://api.github.com/repos/shopware/shopware/releases/82382322/assets",
-    "upload_url": "https://uploads.github.com/repos/shopware/shopware/releases/82382322/assets{?name,label}",
-    "html_url": "https://github.com/shopware/shopware/releases/tag/v5.7.16",
+    "url": "https://api.github.com/repos/shopware5/shopware/releases/82382322",
+    "assets_url": "https://api.github.com/repos/shopware5/shopware/releases/82382322/assets",
+    "upload_url": "https://uploads.github.com/repos/shopware5/shopware/releases/82382322/assets{?name,label}",
+    "html_url": "https://github.com/shopware5/shopware/releases/tag/v5.7.16",
     "id": 82382322,
     "author": {
       "login": "mitelg",
@@ -197,15 +401,15 @@
     "assets": [
 
     ],
-    "tarball_url": "https://api.github.com/repos/shopware/shopware/tarball/v5.7.16",
-    "zipball_url": "https://api.github.com/repos/shopware/shopware/zipball/v5.7.16",
+    "tarball_url": "https://api.github.com/repos/shopware5/shopware/tarball/v5.7.16",
+    "zipball_url": "https://api.github.com/repos/shopware5/shopware/zipball/v5.7.16",
     "body": "Find more information here: https://www.shopware.com/en/changelog-sw5/#5-7-16\r\n\r\nChanges: https://github.com/shopware/shopware/compare/v5.7.15...v5.7.16"
   },
   {
-    "url": "https://api.github.com/repos/shopware/shopware/releases/80293473",
-    "assets_url": "https://api.github.com/repos/shopware/shopware/releases/80293473/assets",
-    "upload_url": "https://uploads.github.com/repos/shopware/shopware/releases/80293473/assets{?name,label}",
-    "html_url": "https://github.com/shopware/shopware/releases/tag/v5.7.16-RC1",
+    "url": "https://api.github.com/repos/shopware5/shopware/releases/80293473",
+    "assets_url": "https://api.github.com/repos/shopware5/shopware/releases/80293473/assets",
+    "upload_url": "https://uploads.github.com/repos/shopware5/shopware/releases/80293473/assets{?name,label}",
+    "html_url": "https://github.com/shopware5/shopware/releases/tag/v5.7.16-RC1",
     "id": 80293473,
     "author": {
       "login": "PascalThesing",
@@ -238,15 +442,15 @@
     "assets": [
 
     ],
-    "tarball_url": "https://api.github.com/repos/shopware/shopware/tarball/v5.7.16-RC1",
-    "zipball_url": "https://api.github.com/repos/shopware/shopware/zipball/v5.7.16-RC1",
+    "tarball_url": "https://api.github.com/repos/shopware5/shopware/tarball/v5.7.16-RC1",
+    "zipball_url": "https://api.github.com/repos/shopware5/shopware/zipball/v5.7.16-RC1",
     "body": "Find more information here: https://en.shopware.com/changelog-sw5/#5-7-16RC1\r\n\r\nChanges: https://github.com/shopware/shopware/compare/v5.7.15...v5.7.16-RC1"
   },
   {
-    "url": "https://api.github.com/repos/shopware/shopware/releases/76867194",
-    "assets_url": "https://api.github.com/repos/shopware/shopware/releases/76867194/assets",
-    "upload_url": "https://uploads.github.com/repos/shopware/shopware/releases/76867194/assets{?name,label}",
-    "html_url": "https://github.com/shopware/shopware/releases/tag/v5.7.15",
+    "url": "https://api.github.com/repos/shopware5/shopware/releases/76867194",
+    "assets_url": "https://api.github.com/repos/shopware5/shopware/releases/76867194/assets",
+    "upload_url": "https://uploads.github.com/repos/shopware5/shopware/releases/76867194/assets{?name,label}",
+    "html_url": "https://github.com/shopware5/shopware/releases/tag/v5.7.15",
     "id": 76867194,
     "author": {
       "login": "PascalThesing",
@@ -279,15 +483,15 @@
     "assets": [
 
     ],
-    "tarball_url": "https://api.github.com/repos/shopware/shopware/tarball/v5.7.15",
-    "zipball_url": "https://api.github.com/repos/shopware/shopware/zipball/v5.7.15",
+    "tarball_url": "https://api.github.com/repos/shopware5/shopware/tarball/v5.7.15",
+    "zipball_url": "https://api.github.com/repos/shopware5/shopware/zipball/v5.7.15",
     "body": "Find more information here: https://en.shopware.com/changelog-sw5/#5-7-15\r\n\r\nChanges: https://github.com/shopware/shopware/compare/v5.7.14...v5.7.15"
   },
   {
-    "url": "https://api.github.com/repos/shopware/shopware/releases/72751174",
-    "assets_url": "https://api.github.com/repos/shopware/shopware/releases/72751174/assets",
-    "upload_url": "https://uploads.github.com/repos/shopware/shopware/releases/72751174/assets{?name,label}",
-    "html_url": "https://github.com/shopware/shopware/releases/tag/v5.7.14",
+    "url": "https://api.github.com/repos/shopware5/shopware/releases/72751174",
+    "assets_url": "https://api.github.com/repos/shopware5/shopware/releases/72751174/assets",
+    "upload_url": "https://uploads.github.com/repos/shopware5/shopware/releases/72751174/assets{?name,label}",
+    "html_url": "https://github.com/shopware5/shopware/releases/tag/v5.7.14",
     "id": 72751174,
     "author": {
       "login": "mitelg",
@@ -320,15 +524,15 @@
     "assets": [
 
     ],
-    "tarball_url": "https://api.github.com/repos/shopware/shopware/tarball/v5.7.14",
-    "zipball_url": "https://api.github.com/repos/shopware/shopware/zipball/v5.7.14",
+    "tarball_url": "https://api.github.com/repos/shopware5/shopware/tarball/v5.7.14",
+    "zipball_url": "https://api.github.com/repos/shopware5/shopware/zipball/v5.7.14",
     "body": "Find more information here: https://en.shopware.com/changelog-sw5/#5-7-14\r\n\r\nChanges: https://github.com/shopware/shopware/compare/v5.7.13...v5.7.14"
   },
   {
-    "url": "https://api.github.com/repos/shopware/shopware/releases/70051157",
-    "assets_url": "https://api.github.com/repos/shopware/shopware/releases/70051157/assets",
-    "upload_url": "https://uploads.github.com/repos/shopware/shopware/releases/70051157/assets{?name,label}",
-    "html_url": "https://github.com/shopware/shopware/releases/tag/v5.7.13",
+    "url": "https://api.github.com/repos/shopware5/shopware/releases/70051157",
+    "assets_url": "https://api.github.com/repos/shopware5/shopware/releases/70051157/assets",
+    "upload_url": "https://uploads.github.com/repos/shopware5/shopware/releases/70051157/assets{?name,label}",
+    "html_url": "https://github.com/shopware5/shopware/releases/tag/v5.7.13",
     "id": 70051157,
     "author": {
       "login": "philipgatzka",
@@ -361,15 +565,15 @@
     "assets": [
 
     ],
-    "tarball_url": "https://api.github.com/repos/shopware/shopware/tarball/v5.7.13",
-    "zipball_url": "https://api.github.com/repos/shopware/shopware/zipball/v5.7.13",
+    "tarball_url": "https://api.github.com/repos/shopware5/shopware/tarball/v5.7.13",
+    "zipball_url": "https://api.github.com/repos/shopware5/shopware/zipball/v5.7.13",
     "body": "Find more information here: https://en.shopware.com/changelog-sw5/#5-7-13\r\n\r\nChanges: https://github.com/shopware/shopware/compare/v5.7.12...v5.7.13"
   },
   {
-    "url": "https://api.github.com/repos/shopware/shopware/releases/69938480",
-    "assets_url": "https://api.github.com/repos/shopware/shopware/releases/69938480/assets",
-    "upload_url": "https://uploads.github.com/repos/shopware/shopware/releases/69938480/assets{?name,label}",
-    "html_url": "https://github.com/shopware/shopware/releases/tag/v5.7.12",
+    "url": "https://api.github.com/repos/shopware5/shopware/releases/69938480",
+    "assets_url": "https://api.github.com/repos/shopware5/shopware/releases/69938480/assets",
+    "upload_url": "https://uploads.github.com/repos/shopware5/shopware/releases/69938480/assets{?name,label}",
+    "html_url": "https://github.com/shopware5/shopware/releases/tag/v5.7.12",
     "id": 69938480,
     "author": {
       "login": "philipgatzka",
@@ -402,15 +606,15 @@
     "assets": [
 
     ],
-    "tarball_url": "https://api.github.com/repos/shopware/shopware/tarball/v5.7.12",
-    "zipball_url": "https://api.github.com/repos/shopware/shopware/zipball/v5.7.12",
+    "tarball_url": "https://api.github.com/repos/shopware5/shopware/tarball/v5.7.12",
+    "zipball_url": "https://api.github.com/repos/shopware5/shopware/zipball/v5.7.12",
     "body": "Find more information here: https://en.shopware.com/changelog-sw5/#5-7-12\r\n\r\nChanges: https://github.com/shopware/shopware/compare/v5.7.11...v5.7.12"
   },
   {
-    "url": "https://api.github.com/repos/shopware/shopware/releases/66569456",
-    "assets_url": "https://api.github.com/repos/shopware/shopware/releases/66569456/assets",
-    "upload_url": "https://uploads.github.com/repos/shopware/shopware/releases/66569456/assets{?name,label}",
-    "html_url": "https://github.com/shopware/shopware/releases/tag/v5.7.11",
+    "url": "https://api.github.com/repos/shopware5/shopware/releases/66569456",
+    "assets_url": "https://api.github.com/repos/shopware5/shopware/releases/66569456/assets",
+    "upload_url": "https://uploads.github.com/repos/shopware5/shopware/releases/66569456/assets{?name,label}",
+    "html_url": "https://github.com/shopware5/shopware/releases/tag/v5.7.11",
     "id": 66569456,
     "author": {
       "login": "philipgatzka",
@@ -443,15 +647,15 @@
     "assets": [
 
     ],
-    "tarball_url": "https://api.github.com/repos/shopware/shopware/tarball/v5.7.11",
-    "zipball_url": "https://api.github.com/repos/shopware/shopware/zipball/v5.7.11",
+    "tarball_url": "https://api.github.com/repos/shopware5/shopware/tarball/v5.7.11",
+    "zipball_url": "https://api.github.com/repos/shopware5/shopware/zipball/v5.7.11",
     "body": "Find more information here: https://en.shopware.com/changelog-sw5/#5-7-11\r\n\r\nChanges: https://github.com/shopware/shopware/compare/v5.7.10...v5.7.11"
   },
   {
-    "url": "https://api.github.com/repos/shopware/shopware/releases/65682183",
-    "assets_url": "https://api.github.com/repos/shopware/shopware/releases/65682183/assets",
-    "upload_url": "https://uploads.github.com/repos/shopware/shopware/releases/65682183/assets{?name,label}",
-    "html_url": "https://github.com/shopware/shopware/releases/tag/v5.7.10",
+    "url": "https://api.github.com/repos/shopware5/shopware/releases/65682183",
+    "assets_url": "https://api.github.com/repos/shopware5/shopware/releases/65682183/assets",
+    "upload_url": "https://uploads.github.com/repos/shopware5/shopware/releases/65682183/assets{?name,label}",
+    "html_url": "https://github.com/shopware5/shopware/releases/tag/v5.7.10",
     "id": 65682183,
     "author": {
       "login": "philipgatzka",
@@ -484,15 +688,15 @@
     "assets": [
 
     ],
-    "tarball_url": "https://api.github.com/repos/shopware/shopware/tarball/v5.7.10",
-    "zipball_url": "https://api.github.com/repos/shopware/shopware/zipball/v5.7.10",
+    "tarball_url": "https://api.github.com/repos/shopware5/shopware/tarball/v5.7.10",
+    "zipball_url": "https://api.github.com/repos/shopware5/shopware/zipball/v5.7.10",
     "body": "Find more information here: https://en.shopware.com/changelog-sw5/#5-7-10\r\n\r\nChanges: https://github.com/shopware/shopware/compare/v5.7.9...v5.7.10"
   },
   {
-    "url": "https://api.github.com/repos/shopware/shopware/releases/65566989",
-    "assets_url": "https://api.github.com/repos/shopware/shopware/releases/65566989/assets",
-    "upload_url": "https://uploads.github.com/repos/shopware/shopware/releases/65566989/assets{?name,label}",
-    "html_url": "https://github.com/shopware/shopware/releases/tag/v5.7.9",
+    "url": "https://api.github.com/repos/shopware5/shopware/releases/65566989",
+    "assets_url": "https://api.github.com/repos/shopware5/shopware/releases/65566989/assets",
+    "upload_url": "https://uploads.github.com/repos/shopware5/shopware/releases/65566989/assets{?name,label}",
+    "html_url": "https://github.com/shopware5/shopware/releases/tag/v5.7.9",
     "id": 65566989,
     "author": {
       "login": "philipgatzka",
@@ -525,15 +729,15 @@
     "assets": [
 
     ],
-    "tarball_url": "https://api.github.com/repos/shopware/shopware/tarball/v5.7.9",
-    "zipball_url": "https://api.github.com/repos/shopware/shopware/zipball/v5.7.9",
+    "tarball_url": "https://api.github.com/repos/shopware5/shopware/tarball/v5.7.9",
+    "zipball_url": "https://api.github.com/repos/shopware5/shopware/zipball/v5.7.9",
     "body": "Find more information here: https://en.shopware.com/changelog-sw5/#5-7-9\r\n\r\nChanges: https://github.com/shopware/shopware/compare/v5.7.8...v5.7.9"
   },
   {
-    "url": "https://api.github.com/repos/shopware/shopware/releases/64229904",
-    "assets_url": "https://api.github.com/repos/shopware/shopware/releases/64229904/assets",
-    "upload_url": "https://uploads.github.com/repos/shopware/shopware/releases/64229904/assets{?name,label}",
-    "html_url": "https://github.com/shopware/shopware/releases/tag/v5.7.8",
+    "url": "https://api.github.com/repos/shopware5/shopware/releases/64229904",
+    "assets_url": "https://api.github.com/repos/shopware5/shopware/releases/64229904/assets",
+    "upload_url": "https://uploads.github.com/repos/shopware5/shopware/releases/64229904/assets{?name,label}",
+    "html_url": "https://github.com/shopware5/shopware/releases/tag/v5.7.8",
     "id": 64229904,
     "author": {
       "login": "philipgatzka",
@@ -566,11 +770,11 @@
     "assets": [
 
     ],
-    "tarball_url": "https://api.github.com/repos/shopware/shopware/tarball/v5.7.8",
-    "zipball_url": "https://api.github.com/repos/shopware/shopware/zipball/v5.7.8",
+    "tarball_url": "https://api.github.com/repos/shopware5/shopware/tarball/v5.7.8",
+    "zipball_url": "https://api.github.com/repos/shopware5/shopware/zipball/v5.7.8",
     "body": "Find more information here: https://en.shopware.com/changelog-sw5/#5-7-8\r\n\r\nChanges: https://github.com/shopware/shopware/compare/v5.7.7...v5.7.8",
     "reactions": {
-      "url": "https://api.github.com/repos/shopware/shopware/releases/64229904/reactions",
+      "url": "https://api.github.com/repos/shopware5/shopware/releases/64229904/reactions",
       "total_count": 1,
       "+1": 0,
       "-1": 0,
@@ -583,10 +787,10 @@
     }
   },
   {
-    "url": "https://api.github.com/repos/shopware/shopware/releases/56438608",
-    "assets_url": "https://api.github.com/repos/shopware/shopware/releases/56438608/assets",
-    "upload_url": "https://uploads.github.com/repos/shopware/shopware/releases/56438608/assets{?name,label}",
-    "html_url": "https://github.com/shopware/shopware/releases/tag/v5.7.7",
+    "url": "https://api.github.com/repos/shopware5/shopware/releases/56438608",
+    "assets_url": "https://api.github.com/repos/shopware5/shopware/releases/56438608/assets",
+    "upload_url": "https://uploads.github.com/repos/shopware5/shopware/releases/56438608/assets{?name,label}",
+    "html_url": "https://github.com/shopware5/shopware/releases/tag/v5.7.7",
     "id": 56438608,
     "author": {
       "login": "philipgatzka",
@@ -619,15 +823,15 @@
     "assets": [
 
     ],
-    "tarball_url": "https://api.github.com/repos/shopware/shopware/tarball/v5.7.7",
-    "zipball_url": "https://api.github.com/repos/shopware/shopware/zipball/v5.7.7",
+    "tarball_url": "https://api.github.com/repos/shopware5/shopware/tarball/v5.7.7",
+    "zipball_url": "https://api.github.com/repos/shopware5/shopware/zipball/v5.7.7",
     "body": "Find more information here: https://en.shopware.com/changelog-sw5/#5-7-7\r\n\r\nChanges: https://github.com/shopware/shopware/compare/v5.7.6...v5.7.7"
   },
   {
-    "url": "https://api.github.com/repos/shopware/shopware/releases/52032997",
-    "assets_url": "https://api.github.com/repos/shopware/shopware/releases/52032997/assets",
-    "upload_url": "https://uploads.github.com/repos/shopware/shopware/releases/52032997/assets{?name,label}",
-    "html_url": "https://github.com/shopware/shopware/releases/tag/v5.7.6",
+    "url": "https://api.github.com/repos/shopware5/shopware/releases/52032997",
+    "assets_url": "https://api.github.com/repos/shopware5/shopware/releases/52032997/assets",
+    "upload_url": "https://uploads.github.com/repos/shopware5/shopware/releases/52032997/assets{?name,label}",
+    "html_url": "https://github.com/shopware5/shopware/releases/tag/v5.7.6",
     "id": 52032997,
     "author": {
       "login": "philipgatzka",
@@ -660,15 +864,15 @@
     "assets": [
 
     ],
-    "tarball_url": "https://api.github.com/repos/shopware/shopware/tarball/v5.7.6",
-    "zipball_url": "https://api.github.com/repos/shopware/shopware/zipball/v5.7.6",
+    "tarball_url": "https://api.github.com/repos/shopware5/shopware/tarball/v5.7.6",
+    "zipball_url": "https://api.github.com/repos/shopware5/shopware/zipball/v5.7.6",
     "body": "Find more information here: https://en.shopware.com/changelog-sw5/#5-7-6\r\n\r\nChanges: https://github.com/shopware/shopware/compare/v5.7.5...v5.7.6"
   },
   {
-    "url": "https://api.github.com/repos/shopware/shopware/releases/51623810",
-    "assets_url": "https://api.github.com/repos/shopware/shopware/releases/51623810/assets",
-    "upload_url": "https://uploads.github.com/repos/shopware/shopware/releases/51623810/assets{?name,label}",
-    "html_url": "https://github.com/shopware/shopware/releases/tag/v5.7.5",
+    "url": "https://api.github.com/repos/shopware5/shopware/releases/51623810",
+    "assets_url": "https://api.github.com/repos/shopware5/shopware/releases/51623810/assets",
+    "upload_url": "https://uploads.github.com/repos/shopware5/shopware/releases/51623810/assets{?name,label}",
+    "html_url": "https://github.com/shopware5/shopware/releases/tag/v5.7.5",
     "id": 51623810,
     "author": {
       "login": "swDennis",
@@ -701,15 +905,15 @@
     "assets": [
 
     ],
-    "tarball_url": "https://api.github.com/repos/shopware/shopware/tarball/v5.7.5",
-    "zipball_url": "https://api.github.com/repos/shopware/shopware/zipball/v5.7.5",
+    "tarball_url": "https://api.github.com/repos/shopware5/shopware/tarball/v5.7.5",
+    "zipball_url": "https://api.github.com/repos/shopware5/shopware/zipball/v5.7.5",
     "body": "Find more information here: https://en.shopware.com/changelog-sw5/#5-7-5\r\n\r\nChanges: https://github.com/shopware/shopware/compare/v5.7.4...v5.7.5"
   },
   {
-    "url": "https://api.github.com/repos/shopware/shopware/releases/51516942",
-    "assets_url": "https://api.github.com/repos/shopware/shopware/releases/51516942/assets",
-    "upload_url": "https://uploads.github.com/repos/shopware/shopware/releases/51516942/assets{?name,label}",
-    "html_url": "https://github.com/shopware/shopware/releases/tag/v5.7.4",
+    "url": "https://api.github.com/repos/shopware5/shopware/releases/51516942",
+    "assets_url": "https://api.github.com/repos/shopware5/shopware/releases/51516942/assets",
+    "upload_url": "https://uploads.github.com/repos/shopware5/shopware/releases/51516942/assets{?name,label}",
+    "html_url": "https://github.com/shopware5/shopware/releases/tag/v5.7.4",
     "id": 51516942,
     "author": {
       "login": "swDennis",
@@ -742,15 +946,15 @@
     "assets": [
 
     ],
-    "tarball_url": "https://api.github.com/repos/shopware/shopware/tarball/v5.7.4",
-    "zipball_url": "https://api.github.com/repos/shopware/shopware/zipball/v5.7.4",
+    "tarball_url": "https://api.github.com/repos/shopware5/shopware/tarball/v5.7.4",
+    "zipball_url": "https://api.github.com/repos/shopware5/shopware/zipball/v5.7.4",
     "body": "Find more information here: https://en.shopware.com/changelog-sw5/#5-7-4\r\n\r\nChanges: https://github.com/shopware/shopware/compare/v5.7.3...v5.7.4"
   },
   {
-    "url": "https://api.github.com/repos/shopware/shopware/releases/49181744",
-    "assets_url": "https://api.github.com/repos/shopware/shopware/releases/49181744/assets",
-    "upload_url": "https://uploads.github.com/repos/shopware/shopware/releases/49181744/assets{?name,label}",
-    "html_url": "https://github.com/shopware/shopware/releases/tag/v5.7.3",
+    "url": "https://api.github.com/repos/shopware5/shopware/releases/49181744",
+    "assets_url": "https://api.github.com/repos/shopware5/shopware/releases/49181744/assets",
+    "upload_url": "https://uploads.github.com/repos/shopware5/shopware/releases/49181744/assets{?name,label}",
+    "html_url": "https://github.com/shopware5/shopware/releases/tag/v5.7.3",
     "id": 49181744,
     "author": {
       "login": "mitelg",
@@ -783,15 +987,15 @@
     "assets": [
 
     ],
-    "tarball_url": "https://api.github.com/repos/shopware/shopware/tarball/v5.7.3",
-    "zipball_url": "https://api.github.com/repos/shopware/shopware/zipball/v5.7.3",
+    "tarball_url": "https://api.github.com/repos/shopware5/shopware/tarball/v5.7.3",
+    "zipball_url": "https://api.github.com/repos/shopware5/shopware/zipball/v5.7.3",
     "body": "Find more information here: https://en.shopware.com/changelog-sw5/#5-7-3\r\n\r\nChanges: https://github.com/shopware/shopware/compare/v5.7.2...v5.7.3"
   },
   {
-    "url": "https://api.github.com/repos/shopware/shopware/releases/45699885",
-    "assets_url": "https://api.github.com/repos/shopware/shopware/releases/45699885/assets",
-    "upload_url": "https://uploads.github.com/repos/shopware/shopware/releases/45699885/assets{?name,label}",
-    "html_url": "https://github.com/shopware/shopware/releases/tag/v5.7.2",
+    "url": "https://api.github.com/repos/shopware5/shopware/releases/45699885",
+    "assets_url": "https://api.github.com/repos/shopware5/shopware/releases/45699885/assets",
+    "upload_url": "https://uploads.github.com/repos/shopware5/shopware/releases/45699885/assets{?name,label}",
+    "html_url": "https://github.com/shopware5/shopware/releases/tag/v5.7.2",
     "id": 45699885,
     "author": {
       "login": "mitelg",
@@ -824,15 +1028,15 @@
     "assets": [
 
     ],
-    "tarball_url": "https://api.github.com/repos/shopware/shopware/tarball/v5.7.2",
-    "zipball_url": "https://api.github.com/repos/shopware/shopware/zipball/v5.7.2",
+    "tarball_url": "https://api.github.com/repos/shopware5/shopware/tarball/v5.7.2",
+    "zipball_url": "https://api.github.com/repos/shopware5/shopware/zipball/v5.7.2",
     "body": "Find more information here: https://en.shopware.com/changelog-sw5/#5-7-2\r\n\r\nChanges: https://github.com/shopware/shopware/compare/v5.7.1...v5.7.2"
   },
   {
-    "url": "https://api.github.com/repos/shopware/shopware/releases/44941658",
-    "assets_url": "https://api.github.com/repos/shopware/shopware/releases/44941658/assets",
-    "upload_url": "https://uploads.github.com/repos/shopware/shopware/releases/44941658/assets{?name,label}",
-    "html_url": "https://github.com/shopware/shopware/releases/tag/v5.7.1",
+    "url": "https://api.github.com/repos/shopware5/shopware/releases/44941658",
+    "assets_url": "https://api.github.com/repos/shopware5/shopware/releases/44941658/assets",
+    "upload_url": "https://uploads.github.com/repos/shopware5/shopware/releases/44941658/assets{?name,label}",
+    "html_url": "https://github.com/shopware5/shopware/releases/tag/v5.7.1",
     "id": 44941658,
     "author": {
       "login": "shyim",
@@ -865,15 +1069,15 @@
     "assets": [
 
     ],
-    "tarball_url": "https://api.github.com/repos/shopware/shopware/tarball/v5.7.1",
-    "zipball_url": "https://api.github.com/repos/shopware/shopware/zipball/v5.7.1",
+    "tarball_url": "https://api.github.com/repos/shopware5/shopware/tarball/v5.7.1",
+    "zipball_url": "https://api.github.com/repos/shopware5/shopware/zipball/v5.7.1",
     "body": "Find more information here: https://en.shopware.com/changelog-sw5/#5-7-1\r\n\r\nChanges: https://github.com/shopware/shopware/compare/v5.7.0...v5.7.1"
   },
   {
-    "url": "https://api.github.com/repos/shopware/shopware/releases/44551695",
-    "assets_url": "https://api.github.com/repos/shopware/shopware/releases/44551695/assets",
-    "upload_url": "https://uploads.github.com/repos/shopware/shopware/releases/44551695/assets{?name,label}",
-    "html_url": "https://github.com/shopware/shopware/releases/tag/v5.7.0",
+    "url": "https://api.github.com/repos/shopware5/shopware/releases/44551695",
+    "assets_url": "https://api.github.com/repos/shopware5/shopware/releases/44551695/assets",
+    "upload_url": "https://uploads.github.com/repos/shopware5/shopware/releases/44551695/assets{?name,label}",
+    "html_url": "https://github.com/shopware5/shopware/releases/tag/v5.7.0",
     "id": 44551695,
     "author": {
       "login": "shyim",
@@ -906,15 +1110,15 @@
     "assets": [
 
     ],
-    "tarball_url": "https://api.github.com/repos/shopware/shopware/tarball/v5.7.0",
-    "zipball_url": "https://api.github.com/repos/shopware/shopware/zipball/v5.7.0",
+    "tarball_url": "https://api.github.com/repos/shopware5/shopware/tarball/v5.7.0",
+    "zipball_url": "https://api.github.com/repos/shopware5/shopware/zipball/v5.7.0",
     "body": "Find more information here: https://en.shopware.com/changelog-sw5/#5-7-0\r\n\r\nChanges: https://github.com/shopware/shopware/compare/v5.6.10...v5.7.0"
   },
   {
-    "url": "https://api.github.com/repos/shopware/shopware/releases/43518861",
-    "assets_url": "https://api.github.com/repos/shopware/shopware/releases/43518861/assets",
-    "upload_url": "https://uploads.github.com/repos/shopware/shopware/releases/43518861/assets{?name,label}",
-    "html_url": "https://github.com/shopware/shopware/releases/tag/v5.7.0-RC2",
+    "url": "https://api.github.com/repos/shopware5/shopware/releases/43518861",
+    "assets_url": "https://api.github.com/repos/shopware5/shopware/releases/43518861/assets",
+    "upload_url": "https://uploads.github.com/repos/shopware5/shopware/releases/43518861/assets{?name,label}",
+    "html_url": "https://github.com/shopware5/shopware/releases/tag/v5.7.0-RC2",
     "id": 43518861,
     "author": {
       "login": "shyim",
@@ -947,15 +1151,15 @@
     "assets": [
 
     ],
-    "tarball_url": "https://api.github.com/repos/shopware/shopware/tarball/v5.7.0-RC2",
-    "zipball_url": "https://api.github.com/repos/shopware/shopware/zipball/v5.7.0-RC2",
+    "tarball_url": "https://api.github.com/repos/shopware5/shopware/tarball/v5.7.0-RC2",
+    "zipball_url": "https://api.github.com/repos/shopware5/shopware/zipball/v5.7.0-RC2",
     "body": "Find more information here: https://en.shopware.com/changelog-sw5/#5-7-0\r\n\r\nChanges: https://github.com/shopware/shopware/compare/v5.7.0-RC1...v5.7.0-RC2"
   },
   {
-    "url": "https://api.github.com/repos/shopware/shopware/releases/42688001",
-    "assets_url": "https://api.github.com/repos/shopware/shopware/releases/42688001/assets",
-    "upload_url": "https://uploads.github.com/repos/shopware/shopware/releases/42688001/assets{?name,label}",
-    "html_url": "https://github.com/shopware/shopware/releases/tag/v5.6.10",
+    "url": "https://api.github.com/repos/shopware5/shopware/releases/42688001",
+    "assets_url": "https://api.github.com/repos/shopware5/shopware/releases/42688001/assets",
+    "upload_url": "https://uploads.github.com/repos/shopware5/shopware/releases/42688001/assets{?name,label}",
+    "html_url": "https://github.com/shopware5/shopware/releases/tag/v5.6.10",
     "id": 42688001,
     "author": {
       "login": "shyim",
@@ -988,15 +1192,15 @@
     "assets": [
 
     ],
-    "tarball_url": "https://api.github.com/repos/shopware/shopware/tarball/v5.6.10",
-    "zipball_url": "https://api.github.com/repos/shopware/shopware/zipball/v5.6.10",
+    "tarball_url": "https://api.github.com/repos/shopware5/shopware/tarball/v5.6.10",
+    "zipball_url": "https://api.github.com/repos/shopware5/shopware/zipball/v5.6.10",
     "body": "Find more information here: https://en.shopware.com/changelog-sw5/#5-6-10\r\n\r\nChanges: https://github.com/shopware/shopware/compare/v5.6.9...v5.6.10"
   },
   {
-    "url": "https://api.github.com/repos/shopware/shopware/releases/34348210",
-    "assets_url": "https://api.github.com/repos/shopware/shopware/releases/34348210/assets",
-    "upload_url": "https://uploads.github.com/repos/shopware/shopware/releases/34348210/assets{?name,label}",
-    "html_url": "https://github.com/shopware/shopware/releases/tag/v5.7.0-RC1",
+    "url": "https://api.github.com/repos/shopware5/shopware/releases/34348210",
+    "assets_url": "https://api.github.com/repos/shopware5/shopware/releases/34348210/assets",
+    "upload_url": "https://uploads.github.com/repos/shopware5/shopware/releases/34348210/assets{?name,label}",
+    "html_url": "https://github.com/shopware5/shopware/releases/tag/v5.7.0-RC1",
     "id": 34348210,
     "author": {
       "login": "PaddyS",
@@ -1029,15 +1233,15 @@
     "assets": [
 
     ],
-    "tarball_url": "https://api.github.com/repos/shopware/shopware/tarball/v5.7.0-RC1",
-    "zipball_url": "https://api.github.com/repos/shopware/shopware/zipball/v5.7.0-RC1",
+    "tarball_url": "https://api.github.com/repos/shopware5/shopware/tarball/v5.7.0-RC1",
+    "zipball_url": "https://api.github.com/repos/shopware5/shopware/zipball/v5.7.0-RC1",
     "body": "Find more information here: https://en.shopware.com/changelog-sw5/#5-7-0\r\n\r\nChanges: https://github.com/shopware/shopware/compare/v5.6.9...v5.7.0-RC1"
   },
   {
-    "url": "https://api.github.com/repos/shopware/shopware/releases/33644419",
-    "assets_url": "https://api.github.com/repos/shopware/shopware/releases/33644419/assets",
-    "upload_url": "https://uploads.github.com/repos/shopware/shopware/releases/33644419/assets{?name,label}",
-    "html_url": "https://github.com/shopware/shopware/releases/tag/v5.6.9",
+    "url": "https://api.github.com/repos/shopware5/shopware/releases/33644419",
+    "assets_url": "https://api.github.com/repos/shopware5/shopware/releases/33644419/assets",
+    "upload_url": "https://uploads.github.com/repos/shopware5/shopware/releases/33644419/assets{?name,label}",
+    "html_url": "https://github.com/shopware5/shopware/releases/tag/v5.6.9",
     "id": 33644419,
     "author": {
       "login": "shyim",
@@ -1070,15 +1274,15 @@
     "assets": [
 
     ],
-    "tarball_url": "https://api.github.com/repos/shopware/shopware/tarball/v5.6.9",
-    "zipball_url": "https://api.github.com/repos/shopware/shopware/zipball/v5.6.9",
+    "tarball_url": "https://api.github.com/repos/shopware5/shopware/tarball/v5.6.9",
+    "zipball_url": "https://api.github.com/repos/shopware5/shopware/zipball/v5.6.9",
     "body": "Find more information here: https://en.shopware.com/changelog-sw5/#5-6-9\r\n\r\nChanges: https://github.com/shopware/shopware/compare/v5.6.8...v5.6.9"
   },
   {
-    "url": "https://api.github.com/repos/shopware/shopware/releases/29760619",
-    "assets_url": "https://api.github.com/repos/shopware/shopware/releases/29760619/assets",
-    "upload_url": "https://uploads.github.com/repos/shopware/shopware/releases/29760619/assets{?name,label}",
-    "html_url": "https://github.com/shopware/shopware/releases/tag/v5.6.8",
+    "url": "https://api.github.com/repos/shopware5/shopware/releases/29760619",
+    "assets_url": "https://api.github.com/repos/shopware5/shopware/releases/29760619/assets",
+    "upload_url": "https://uploads.github.com/repos/shopware5/shopware/releases/29760619/assets{?name,label}",
+    "html_url": "https://github.com/shopware5/shopware/releases/tag/v5.6.8",
     "id": 29760619,
     "author": {
       "login": "PaddyS",
@@ -1111,15 +1315,15 @@
     "assets": [
 
     ],
-    "tarball_url": "https://api.github.com/repos/shopware/shopware/tarball/v5.6.8",
-    "zipball_url": "https://api.github.com/repos/shopware/shopware/zipball/v5.6.8",
+    "tarball_url": "https://api.github.com/repos/shopware5/shopware/tarball/v5.6.8",
+    "zipball_url": "https://api.github.com/repos/shopware5/shopware/zipball/v5.6.8",
     "body": "Find more information here: https://en.shopware.com/changelog-sw5/#5-6-8\r\n\r\nChanges: https://github.com/shopware/shopware/compare/v5.6.7...v5.6.8"
   },
   {
-    "url": "https://api.github.com/repos/shopware/shopware/releases/27315625",
-    "assets_url": "https://api.github.com/repos/shopware/shopware/releases/27315625/assets",
-    "upload_url": "https://uploads.github.com/repos/shopware/shopware/releases/27315625/assets{?name,label}",
-    "html_url": "https://github.com/shopware/shopware/releases/tag/v5.6.7",
+    "url": "https://api.github.com/repos/shopware5/shopware/releases/27315625",
+    "assets_url": "https://api.github.com/repos/shopware5/shopware/releases/27315625/assets",
+    "upload_url": "https://uploads.github.com/repos/shopware5/shopware/releases/27315625/assets{?name,label}",
+    "html_url": "https://github.com/shopware5/shopware/releases/tag/v5.6.7",
     "id": 27315625,
     "author": {
       "login": "shyim",
@@ -1152,15 +1356,15 @@
     "assets": [
 
     ],
-    "tarball_url": "https://api.github.com/repos/shopware/shopware/tarball/v5.6.7",
-    "zipball_url": "https://api.github.com/repos/shopware/shopware/zipball/v5.6.7",
+    "tarball_url": "https://api.github.com/repos/shopware5/shopware/tarball/v5.6.7",
+    "zipball_url": "https://api.github.com/repos/shopware5/shopware/zipball/v5.6.7",
     "body": "Find more information here: https://en.shopware.com/changelog-sw5/#5-6-7\r\n\r\nChanges: https://github.com/shopware/shopware/compare/v5.6.6...v5.6.7"
   },
   {
-    "url": "https://api.github.com/repos/shopware/shopware/releases/24169533",
-    "assets_url": "https://api.github.com/repos/shopware/shopware/releases/24169533/assets",
-    "upload_url": "https://uploads.github.com/repos/shopware/shopware/releases/24169533/assets{?name,label}",
-    "html_url": "https://github.com/shopware/shopware/releases/tag/v5.6.6",
+    "url": "https://api.github.com/repos/shopware5/shopware/releases/24169533",
+    "assets_url": "https://api.github.com/repos/shopware5/shopware/releases/24169533/assets",
+    "upload_url": "https://uploads.github.com/repos/shopware5/shopware/releases/24169533/assets{?name,label}",
+    "html_url": "https://github.com/shopware5/shopware/releases/tag/v5.6.6",
     "id": 24169533,
     "author": {
       "login": "shyim",
@@ -1193,15 +1397,15 @@
     "assets": [
 
     ],
-    "tarball_url": "https://api.github.com/repos/shopware/shopware/tarball/v5.6.6",
-    "zipball_url": "https://api.github.com/repos/shopware/shopware/zipball/v5.6.6",
+    "tarball_url": "https://api.github.com/repos/shopware5/shopware/tarball/v5.6.6",
+    "zipball_url": "https://api.github.com/repos/shopware5/shopware/zipball/v5.6.6",
     "body": "Find more information here: https://en.shopware.com/changelog-sw5/#5-6-6\r\n\r\nChanges: https://github.com/shopware/shopware/compare/v5.6.5...v5.6.6"
   },
   {
-    "url": "https://api.github.com/repos/shopware/shopware/releases/24158384",
-    "assets_url": "https://api.github.com/repos/shopware/shopware/releases/24158384/assets",
-    "upload_url": "https://uploads.github.com/repos/shopware/shopware/releases/24158384/assets{?name,label}",
-    "html_url": "https://github.com/shopware/shopware/releases/tag/v5.6.5",
+    "url": "https://api.github.com/repos/shopware5/shopware/releases/24158384",
+    "assets_url": "https://api.github.com/repos/shopware5/shopware/releases/24158384/assets",
+    "upload_url": "https://uploads.github.com/repos/shopware5/shopware/releases/24158384/assets{?name,label}",
+    "html_url": "https://github.com/shopware5/shopware/releases/tag/v5.6.5",
     "id": 24158384,
     "author": {
       "login": "shyim",
@@ -1234,90 +1438,8 @@
     "assets": [
 
     ],
-    "tarball_url": "https://api.github.com/repos/shopware/shopware/tarball/v5.6.5",
-    "zipball_url": "https://api.github.com/repos/shopware/shopware/zipball/v5.6.5",
+    "tarball_url": "https://api.github.com/repos/shopware5/shopware/tarball/v5.6.5",
+    "zipball_url": "https://api.github.com/repos/shopware5/shopware/zipball/v5.6.5",
     "body": "Find more information here: https://en.shopware.com/changelog-sw5/#5-6-5\r\n\r\nChanges: https://github.com/shopware/shopware/compare/v5.6.4...v5.6.5"
-  },
-  {
-    "url": "https://api.github.com/repos/shopware/shopware/releases/22312502",
-    "assets_url": "https://api.github.com/repos/shopware/shopware/releases/22312502/assets",
-    "upload_url": "https://uploads.github.com/repos/shopware/shopware/releases/22312502/assets{?name,label}",
-    "html_url": "https://github.com/shopware/shopware/releases/tag/v5.6.4",
-    "id": 22312502,
-    "author": {
-      "login": "shyim",
-      "id": 6224096,
-      "node_id": "MDQ6VXNlcjYyMjQwOTY=",
-      "avatar_url": "https://avatars.githubusercontent.com/u/6224096?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/shyim",
-      "html_url": "https://github.com/shyim",
-      "followers_url": "https://api.github.com/users/shyim/followers",
-      "following_url": "https://api.github.com/users/shyim/following{/other_user}",
-      "gists_url": "https://api.github.com/users/shyim/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/shyim/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/shyim/subscriptions",
-      "organizations_url": "https://api.github.com/users/shyim/orgs",
-      "repos_url": "https://api.github.com/users/shyim/repos",
-      "events_url": "https://api.github.com/users/shyim/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/shyim/received_events",
-      "type": "User",
-      "site_admin": false
-    },
-    "node_id": "MDc6UmVsZWFzZTIyMzEyNTAy",
-    "tag_name": "v5.6.4",
-    "target_commitish": "5.6",
-    "name": "Shopware 5.6.4",
-    "draft": false,
-    "prerelease": false,
-    "created_at": "2019-12-17T11:19:06Z",
-    "published_at": "2019-12-18T07:33:25Z",
-    "assets": [
-
-    ],
-    "tarball_url": "https://api.github.com/repos/shopware/shopware/tarball/v5.6.4",
-    "zipball_url": "https://api.github.com/repos/shopware/shopware/zipball/v5.6.4",
-    "body": "Find more information here: https://en.shopware.com/changelog-sw5/#5-6-4\r\n\r\nChanges: https://github.com/shopware/shopware/compare/v5.6.3...v5.6.4"
-  },
-  {
-    "url": "https://api.github.com/repos/shopware/shopware/releases/21920948",
-    "assets_url": "https://api.github.com/repos/shopware/shopware/releases/21920948/assets",
-    "upload_url": "https://uploads.github.com/repos/shopware/shopware/releases/21920948/assets{?name,label}",
-    "html_url": "https://github.com/shopware/shopware/releases/tag/v5.6.3",
-    "id": 21920948,
-    "author": {
-      "login": "shyim",
-      "id": 6224096,
-      "node_id": "MDQ6VXNlcjYyMjQwOTY=",
-      "avatar_url": "https://avatars.githubusercontent.com/u/6224096?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/shyim",
-      "html_url": "https://github.com/shyim",
-      "followers_url": "https://api.github.com/users/shyim/followers",
-      "following_url": "https://api.github.com/users/shyim/following{/other_user}",
-      "gists_url": "https://api.github.com/users/shyim/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/shyim/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/shyim/subscriptions",
-      "organizations_url": "https://api.github.com/users/shyim/orgs",
-      "repos_url": "https://api.github.com/users/shyim/repos",
-      "events_url": "https://api.github.com/users/shyim/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/shyim/received_events",
-      "type": "User",
-      "site_admin": false
-    },
-    "node_id": "MDc6UmVsZWFzZTIxOTIwOTQ4",
-    "tag_name": "v5.6.3",
-    "target_commitish": "5.6",
-    "name": "Shopware 5.6.3",
-    "draft": false,
-    "prerelease": false,
-    "created_at": "2019-11-27T14:04:12Z",
-    "published_at": "2019-12-03T08:54:40Z",
-    "assets": [
-
-    ],
-    "tarball_url": "https://api.github.com/repos/shopware/shopware/tarball/v5.6.3",
-    "zipball_url": "https://api.github.com/repos/shopware/shopware/zipball/v5.6.3",
-    "body": "Find more information here: https://en.shopware.com/changelog-sw5/#5-6-3\r\n\r\nChanges: https://github.com/shopware/shopware/compare/v5.6.2...v5.6.3"
   }
 ]

@@ -14,7 +14,7 @@ jobs:
       -   name: Update releases.json
           run: |
             rm releases.json
-            wget https://api.github.com/repos/shopware/shopware/releases -O releases.json
+            wget https://api.github.com/repos/shopware5/shopware/releases -O releases.json
             git config --global user.name "shopware5"
             git config --global user.email "<>"
       -   name: Verify diff
@@ -25,5 +25,5 @@ jobs:
           if: steps.verify_diff.outputs.changed == 'true'
           run: |
             git add .
-            git commit -m "Update releases.json"
+            git commit -m "chore: Update releases.json"
             git push origin HEAD:main
