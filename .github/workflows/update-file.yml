@@ -18,8 +18,12 @@ jobs:
             git config --global user.name "shopware5"
             git config --global user.email "<>"
       -   name: Verify diff
+          id: verify_diff
           run: |
             git diff . || echo "changed=true" >> $GITHUB_OUTPUT
+
+      -   name: has chaned
+          run: echo ${{ steps.verify_diff.outputs.changed }}
 
       -   name: Commit changes
           if: steps.verify_diff.outputs.changed == 'true'
